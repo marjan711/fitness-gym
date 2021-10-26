@@ -41,11 +41,11 @@ const Shop = () => {
                 <div className="card mb-3" >
                         <div className="row g-0">
                             <div className="col-md-4">
-                            <img src="https://i.ibb.co/nsnVBwF/pdt14.jpg" className="img-fluid rounded-start mt-5 ms-md-4 mb-5" alt="..."/>
+                            <img src="https://i.ibb.co/nsnVBwF/pdt14.jpg" className="img-fluid rounded-start " alt="..."/>
                             </div>
                             <div className="col-md-8">
                             <div className="card-body">
-                                <h5 className="card-title fw-bolder">Skipping Rope</h5>
+                                <h3 className="card-title fw-bolder">Skipping Rope</h3>
                                 <br />
                                 <p className="text-warning">{star} {star} {star} {star} {star}</p>
                                 
@@ -64,7 +64,7 @@ const Shop = () => {
                 <div className="card mb-3" >
                         <div className="row g-0">
                             <div className="col-md-4">
-                            <img src="https://i.ibb.co/4NzFMZK/hoodie-7-front.jpg" className="img-fluid rounded-start mt-5 ms-md-4 mb-5" alt="..."/>
+                            <img src="https://i.ibb.co/4NzFMZK/hoodie-7-front.jpg" className="img-fluid rounded-start " alt="..."/>
                             </div>
                             <div className="col-md-8">
                             <div className="card-body">
@@ -86,7 +86,7 @@ const Shop = () => {
                 <div className="card mb-3" >
                         <div className="row g-0">
                             <div className="col-md-4">
-                            <img src="https://i.ibb.co/MRW1NN0/pdt12.jpg" className="img-fluid rounded-start mt-5 ms-md-4 mb-5" alt="..."/>
+                            <img src="https://i.ibb.co/MRW1NN0/pdt12.jpg" className="img-fluid rounded-start" alt="..."/>
                             </div>
                             <div className="col-md-8">
                             <div className="card-body">
@@ -110,7 +110,7 @@ const Shop = () => {
                 <div className="card mb-3" >
                         <div className="row g-0">
                             <div className="col-md-4">
-                            <img src="https://i.ibb.co/NVdkc4q/pdt15.jpg" className="img-fluid rounded-start mt-5 ms-md-4 mb-5" alt="..."/>
+                            <img src="https://i.ibb.co/NVdkc4q/pdt15.jpg" className="img-fluid rounded-start " alt="..."/>
                             </div>
                             <div className="col-md-8">
                             <div className="card-body">
@@ -131,7 +131,7 @@ const Shop = () => {
                 <div className="card mb-3" >
                         <div className="row g-0">
                             <div className="col-md-4">
-                            <img src="https://i.ibb.co/Q8C19Fv/pdt3.jpg" className="img-fluid rounded-start mt-5 ms-md-4 mb-5" alt="..."/>
+                            <img src="https://i.ibb.co/Q8C19Fv/pdt3.jpg" className="img-fluid rounded-start " alt="..."/>
                             </div>
                             <div className="col-md-8">
                             <div className="card-body">
