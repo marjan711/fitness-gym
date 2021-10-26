@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Body Building",
+    "info": "Yes, you can build serious muscle and strength while training at home! The best at-           home workouts manipulate workout variables like tension, volume, and exercise                 pairings to hammer muscles while sparing the joints. Work hard with the equipment             you have and build muscle without a gym or barbell in sight!",
+    "key": "1",
+    "pic": "https://i.ibb.co/BqRvSXs/1.jpg"
+  },
+  {
+    "name": "Weight Lifting",
+    "info": "Time to head into the garage and grow. This is the plan to get the most out of the least! If you've got a barbell, a few dumbbells, a bench, and a pull-up bar, you've got all you need to build serious strength and the physique to match. This program will give you everything you need to turn your home gym into a true iron pit!",
+    "key": "2",
+    "pic": "https://i.ibb.co/GCnW0kt/4.jpg"
+  },
+  {
+    "name": "Yoga & Streching",
+    "info": "Stream hundreds of expertly led yoga & meditation classes on any device.Your free trial awaits. Cancel online anytime.Dont miss the chance grab it now",
+    "key": "3",
+    "pic": "https://i.ibb.co/hRPY0zw/3.jpg"
+  },
+  {
+    "name": "Boxing Classes",
+    "info": "Become a Warior, Learn with best Trainer.We provided best Trainer who can give his best to grow your Skill",
+    "key": "4",
+    "pic": "https://i.ibb.co/wWJvrQx/5.jpg"
+  },
+  {
+    "name": "Fat Loss ",
+    "info": "Lose Your extra Fat with proper exercise.We have best trainer for You! We also provide netrautionist to maintain your diyet.Grab the opurtunity Today",
+    "key": "5",
+    "pic": "https://i.ibb.co/6ggqmbD/2.jpg"
+  },
+  {
+    "name": "Dance Classes",
+    "info": "Grow your Dance skill with us.Dance is best exercise for Our Health,We have best               Trainer So,Don't miss the chance",
+    "key": "6",
+    "pic": "https://i.ibb.co/DYW0bfb/6.jpg"
+  }
+]

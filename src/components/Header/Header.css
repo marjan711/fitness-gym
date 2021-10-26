@@ -1,0 +1,15 @@
+.c_height{
+    height: 80px;
+}
+
+.c-li{
+    list-style-type: none;
+    color:#a4a9b0;
+    font-size: 20px;
+   
+}
+
+.c-li:hover{
+    color:#66e4ed;
+}
+

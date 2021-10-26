@@ -1,0 +1,11 @@
+.c-card{
+    height: 620px;
+}
+
+.c-card:hover{
+    box-shadow: 4px 4px 4px 1px  rgb(177, 176, 176);
+}
+
+body{
+    background: #060606;
+}

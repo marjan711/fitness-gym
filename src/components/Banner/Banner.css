@@ -1,0 +1,15 @@
+.custom{
+    object-fit: cover;
+    object-position: center;
+  
+    overflow: hidden;
+}
+
+h1>span{
+    color:#e81515;
+}
+
+.c-btn{
+    background-color: #e81515 ;
+    color: white;
+}

@@ -1,0 +1,33 @@
+
+.c-width{
+    width: 25rem;
+}
+
+.c-color{
+    color:white;
+}
+
+.c-color>span{
+    color: brown;
+}
+.services-banner{
+    background-image: url("../../images/services-banner.jpg");
+    
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center center;
+    background-attachment: fixed;
+    height:100vh;
+    width:100%;
+    
+    
+}
+
+body{
+    
+    
+}
+
+.c-anim {
+    --animate-duration: 2.5s;
+  }
